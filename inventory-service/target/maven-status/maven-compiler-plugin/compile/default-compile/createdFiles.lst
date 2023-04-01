@@ -1,0 +1,7 @@
+com/jbtech/inventoryservice/InventoryServiceApplication.class
+com/jbtech/inventoryservice/service/InventoryService.class
+com/jbtech/inventoryservice/repository/InventoryRepository.class
+com/jbtech/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/jbtech/inventoryservice/model/Inventory.class
+com/jbtech/inventoryservice/dto/InventoryResponse.class
+com/jbtech/inventoryservice/controller/InventoryController.class

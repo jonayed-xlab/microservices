@@ -1,0 +1,10 @@
+com/jbtech/productservice/controller/ProductController.class
+com/jbtech/productservice/model/Product.class
+com/jbtech/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/jbtech/productservice/dto/ProductRequest.class
+com/jbtech/productservice/service/ProductService.class
+com/jbtech/productservice/repository/ProductRepository.class
+com/jbtech/productservice/model/Product$ProductBuilder.class
+com/jbtech/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/jbtech/productservice/dto/ProductResponse.class
+com/jbtech/productservice/ProductServiceApplication.class

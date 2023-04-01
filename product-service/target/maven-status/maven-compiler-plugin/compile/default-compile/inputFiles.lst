@@ -1,0 +1,7 @@
+/media/jonayed/Projects/micorservice/product-service/src/main/java/com/jbtech/productservice/model/Product.java
+/media/jonayed/Projects/micorservice/product-service/src/main/java/com/jbtech/productservice/ProductServiceApplication.java
+/media/jonayed/Projects/micorservice/product-service/src/main/java/com/jbtech/productservice/dto/ProductRequest.java
+/media/jonayed/Projects/micorservice/product-service/src/main/java/com/jbtech/productservice/service/ProductService.java
+/media/jonayed/Projects/micorservice/product-service/src/main/java/com/jbtech/productservice/repository/ProductRepository.java
+/media/jonayed/Projects/micorservice/product-service/src/main/java/com/jbtech/productservice/dto/ProductResponse.java
+/media/jonayed/Projects/micorservice/product-service/src/main/java/com/jbtech/productservice/controller/ProductController.java

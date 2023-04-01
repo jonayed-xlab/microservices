@@ -1,0 +1,6 @@
+/media/jonayed/Projects/micorservice/inventory-service/src/main/java/com/jbtech/inventoryservice/dto/InventoryResponse.java
+/media/jonayed/Projects/micorservice/inventory-service/src/main/java/com/jbtech/inventoryservice/controller/InventoryController.java
+/media/jonayed/Projects/micorservice/inventory-service/src/main/java/com/jbtech/inventoryservice/model/Inventory.java
+/media/jonayed/Projects/micorservice/inventory-service/src/main/java/com/jbtech/inventoryservice/repository/InventoryRepository.java
+/media/jonayed/Projects/micorservice/inventory-service/src/main/java/com/jbtech/inventoryservice/service/InventoryService.java
+/media/jonayed/Projects/micorservice/inventory-service/src/main/java/com/jbtech/inventoryservice/InventoryServiceApplication.java

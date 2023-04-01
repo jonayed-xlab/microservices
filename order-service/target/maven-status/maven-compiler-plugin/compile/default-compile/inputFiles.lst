@@ -1,0 +1,10 @@
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/repository/OrderRepository.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/config/WebClientConfig.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/model/Order.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/dto/OrderLineitemsDto.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/controller/OrderController.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/OrderServiceApplication.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/service/OrderService.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/dto/OrderRequest.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/dto/InventoryResponse.java
+/media/jonayed/Projects/micorservice/order-service/src/main/java/com/jbtech/orderservice/model/OrderLineitems.java

@@ -1,0 +1,12 @@
+com/jbtech/orderservice/model/Order.class
+com/jbtech/orderservice/dto/OrderRequest.class
+com/jbtech/orderservice/dto/InventoryResponse.class
+com/jbtech/orderservice/model/OrderLineitems$OrderLineitemsBuilder.class
+com/jbtech/orderservice/config/WebClientConfig.class
+com/jbtech/orderservice/repository/OrderRepository.class
+com/jbtech/orderservice/OrderServiceApplication.class
+com/jbtech/orderservice/model/OrderLineitems.class
+com/jbtech/orderservice/controller/OrderController.class
+com/jbtech/orderservice/dto/OrderLineitemsDto.class
+com/jbtech/orderservice/service/OrderService.class
+com/jbtech/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
