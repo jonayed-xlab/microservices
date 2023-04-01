@@ -27,7 +27,7 @@ public class OrderService {
     @Value("${service.url}")
     private String serviceUrl;
 
-    public void placeOrder(OrderRequest orderRequest){
+    public String placeOrder(OrderRequest orderRequest){
         Order order = new Order();
         order.setOrderNumber(UUID.randomUUID().toString());
 
@@ -49,11 +49,13 @@ public class OrderService {
                 .bodyToMono(InventoryResponse[].class)
                 .block();
         boolean allProductsInStack = Arrays.stream(inventoryResponseArray).allMatch(InventoryResponse::getIsInStock);
-        if (allProductsInStack)
+        if (allProductsInStack) {
             orderRepository.save(order);
-        else
+            return "Order placed Successfully";
+        }else {
             throw new IllegalArgumentException("Product is not in stock!");
-    }
+        }
+        }
 
     private OrderLineitems mapToData(OrderLineitemsDto orderLineiteamsDto) {
         return  OrderLineitems.builder()
